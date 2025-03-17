@@ -3,6 +3,8 @@
 
 #### Dashboard Interacton Link : - https://github.com/gurmeet-singh-94/HR-Analysis-Dashboard/blob/main/HR%20DASHBOARD.pbix
 
+![Screenshot 2025-03-16 202719](https://github.com/user-attachments/assets/ec3113dd-55f9-4a6f-9532-5d90a2d6fb1f)
+
 ### Process :- 
 #### Upload an CSV in Power BI
 ##### Power BI -> PowerBi Desktop -> Get Data -> Text CSV -> Transform Data
@@ -45,7 +47,7 @@
 ##### Provide training programs and skill development programs.
 ##### Encourage flexible work arrangements (remote work, hybrid models).
 
-![Screenshot 2025-03-16 202719](https://github.com/user-attachments/assets/ec3113dd-55f9-4a6f-9532-5d90a2d6fb1f)
+
 
 
 
