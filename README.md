@@ -1,6 +1,7 @@
-# HR-Analysis-Dashboard (Power BI Project)
+# HR-Analysis-Dashboard (Power BI Project)                               
 ### In this project we have analyze the causes of attrition of employees.
 
+#### Dashboard Interacton Link : - 
 
 ### Process :- 
 #### Upload an CSV in Power BI
@@ -43,6 +44,9 @@
 ##### Provide bonuses, promotions, or additional benefits for top performers.
 ##### Provide training programs and skill development programs.
 ##### Encourage flexible work arrangements (remote work, hybrid models).
+
+![Screenshot 2025-03-16 202719](https://github.com/user-attachments/assets/ec3113dd-55f9-4a6f-9532-5d90a2d6fb1f)
+
 
 
 
