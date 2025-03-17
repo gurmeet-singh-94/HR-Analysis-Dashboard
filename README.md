@@ -1,7 +1,7 @@
 # HR-Analysis-Dashboard (Power BI Project)                               
 ### In this project we have analyze the causes of attrition of employees.
 
-#### Dashboard Interacton Link : - 
+#### Dashboard Interacton Link : - https://github.com/gurmeet-singh-94/HR-Analysis-Dashboard/blob/main/HR%20DASHBOARD.pbix
 
 ### Process :- 
 #### Upload an CSV in Power BI
