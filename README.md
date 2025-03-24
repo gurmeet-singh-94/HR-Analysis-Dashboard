@@ -1,9 +1,7 @@
 # HR-Analysis-Dashboard (Power BI Project)                               
-### In this project we have analyze the causes of attrition of employees.
-
-#### Dashboard Interacton Link : - https://github.com/gurmeet-singh-94/HR-Analysis-Dashboard/blob/main/HR%20DASHBOARD.pbix
-
-![Screenshot 2025-03-16 202719](https://github.com/user-attachments/assets/ec3113dd-55f9-4a6f-9532-5d90a2d6fb1f)
+### Attrition Rate is often common in an oraganization and it is considered to be not good for the organization for their growth.
+### In this project we have analyze the causes of attrition of employees and giving the insights, conclusions and recommendations.
+#### -------------------------------------------------------------------------------------------------
 
 ### Process :- 
 #### Upload an CSV in Power BI
@@ -29,18 +27,39 @@
 #### -->> Area Chart - Showing details of Number of Attrition over Year of Service.
 #### -->> Clustered Bar Chart - Showing the details of Number of Attrition by Job Role.
 
+#### Dashboard Interacton Link : - https://github.com/gurmeet-singh-94/HR-Analysis-Dashboard/blob/main/HR%20DASHBOARD.pbix
+
+![Screenshot 2025-03-16 202719](https://github.com/user-attachments/assets/ec3113dd-55f9-4a6f-9532-5d90a2d6fb1f)
 
 
-### Insights :-
-#### Attrition Rate is often common in an oraganization and it is considered to be not good for the organization for their growth.
-#### Hera are the few reasons of attrition which we get from our dashboard.
-#### The Attrition Rate or Number of Attrition is more in the age between 18 - 35 . There are many reasons like in the early stages employee wants to get experience and they switch organizations or may be they are not get enough salary.
-#### The Attrition Rate is more in Research & Development , may be they are not get enough resources from the company for the research and they get frustrated.
-#### The Average Salary is not meet up to the employee expectation , the wages they are getting are not enough so they left the organization.
-#### The Attrition Rate is less whose having 10 + experience , as they might be on higher positions and they get paid well.
+### -->> INSIGHTS:
+#### . 237 employees out of 1470 have left the organization.
+#### . Majority (116) of employees leaving are aged 26-35, followed by 18-25 (44 employees).This suggests that early-career employees are the most likely to leave
+#### . The highest attrition is from Life Sciences (38%) and Medical (27%) backgrounds. These are critical fields where retaining talent is essential.
+#### . 150 males left vs. 87 females, indicating that men are leaving at a higher rate.
+#### . Laboratory Technicians (62), Sales Executives (57), and Research Scientists (47) experience the most attrition.These roles might have higher workload, stress, or better external opportunities.
+#### . Most attrition occurs within the first 2 years, peaking at year 1.Long-term employees (10+ years) have much lower attrition rates.
+#### . 163 employees who left had salaries up to 5K, showing a strong correlation between low salary and attrition.As salary increases, attrition reduces significantly.
 
 
-### How to Overcome :-
+### -->> CONCLUSIONS:
+#### . Younger employees (26-35) with low salaries are leaving the most, likely due to better opportunities elsewhere.
+#### . Job roles with high attrition, such as Lab Technicians & Sales Executives, may require better working conditions, incentives, or career growth opportunities.
+#### . Higher salaries correlate with lower attrition, indicating that salary adjustments or benefits might help with retention.
+#### . Employees with fewer than 2 years of service are the most vulnerable to leaving, suggesting onboarding and engagement initiatives are critical.
+
+
+### -->> RECOMMENDATION FOR OVERCOME FROM THIS SITUATION:
+#### . Introduce career development programs, mentorships, and leadership tracks.
+#### . Increase Salaries for Low-Paid Employees specially for roles under 5K.
+#### . Introduce performance-based incentives to encourage retention.
+#### . Provide better work-life balance, flexibility, or incentives for employees in high-stress roles.
+#### . Conduct internal surveys to understand why more men are leaving.
+#### . Ensure equal career progression opportunities for all employees.
+#### . offering specialized training, certifications, or research opportunities may help.
+
+
+
 ##### Encourage team-building activities and social events.
 ##### Provide health insurance, retirement plans, and other benefits.
 ##### Provide bonuses, promotions, or additional benefits for top performers.
