@@ -56,15 +56,11 @@
 #### . Provide better work-life balance, flexibility, or incentives for employees in high-stress roles.
 #### . Conduct internal surveys to understand why more men are leaving.
 #### . Ensure equal career progression opportunities for all employees.
-#### . offering specialized training, certifications, or research opportunities may help.
+#### . Offering specialized training, certifications, or research opportunities may help.
+#### . Provide health insurance, retirement plans, and other benefits.
 
 
 
-##### Encourage team-building activities and social events.
-##### Provide health insurance, retirement plans, and other benefits.
-##### Provide bonuses, promotions, or additional benefits for top performers.
-##### Provide training programs and skill development programs.
-##### Encourage flexible work arrangements (remote work, hybrid models).
 
 
 
