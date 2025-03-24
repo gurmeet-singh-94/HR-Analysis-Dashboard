@@ -49,7 +49,7 @@
 #### . Employees with fewer than 2 years of service are the most vulnerable to leaving, suggesting onboarding and engagement initiatives are critical.
 
 
-### -->> RECOMMENDATION FOR OVERCOME FROM THIS SITUATION:
+### -->> RECOMMENDATIONS FOR OVERCOME FROM THIS SITUATION:
 #### . Introduce career development programs, mentorships, and leadership tracks.
 #### . Increase Salaries for Low-Paid Employees specially for roles under 5K.
 #### . Introduce performance-based incentives to encourage retention.
